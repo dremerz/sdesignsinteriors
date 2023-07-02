@@ -1,0 +1,1326 @@
+/**
+ * VictorThemes Styling
+*/
+
+@media screen and (max-width:1699px) {
+  /* Xrton Normal CSS */
+  .service-info {
+    padding: 40px 30px 30px;
+  }
+  /* Xrton Portfolio Pages CSS */
+  .xrton-masonry[data-item="4"] .masonry-item {
+    width: 33.33333333%;
+  }
+}
+
+@media screen and (max-width:1800px) {
+  .xrton-content-area .alignfull,
+  .blog-detail-wrap .alignfull {
+    margin-left: calc( -100vw / 1.93 + 100% / 1.93 );
+    margin-right: calc( -100vw / 1.93 + 100% / 1.93 );
+  }
+}
+@media screen and (max-width:1614px) {
+  .xrton-content-area .alignfull,
+  .blog-detail-wrap .alignfull {
+    margin-left: calc( -100vw / 1.92 + 100% / 1.92 );
+    margin-right: calc( -100vw / 1.92 + 100% / 1.92 );
+  }
+}
+@media screen and (max-width:1565px) {
+  .xrton-content-area .alignfull,
+  .blog-detail-wrap .alignfull {
+    margin-left: calc( -100vw / 1.89 + 100% / 1.89 );
+    margin-right: calc( -100vw / 1.89 + 100% / 1.89 ); 
+  }
+}
+@media screen and (max-width:1450px) {
+  .xrton-content-area .alignfull,
+  .blog-detail-wrap .alignfull {
+    margin-left: calc( -100vw / 1.86 + 100% / 1.86 );
+    margin-right: calc( -100vw / 1.86 + 100% / 1.86 ); 
+  }
+}
+@media screen and (max-width:1380px){
+  .xrton-content-area .alignfull,
+  .blog-detail-wrap .alignfull {
+    margin-left: 0;
+    margin-right: 0; 
+  }
+ .xrton-content-area .alignwide {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media screen and (max-width:1340px) {
+  /* Xrton Normal CSS */
+  .caption-wrap-inner h1 {
+    font-size: 50px;
+    line-height: 58px;
+  }
+  .service-info {
+    padding: 25px;
+  }
+  .service-info .service-info-wrap {
+    padding-bottom: 0;
+  }
+  .service-info .xrton-icon {
+    margin-bottom: 8px;
+  }
+  .service-title {
+    padding-bottom: 8px;
+  }
+  .service-info h4 {
+    font-size: 16px;
+  }
+  .service-info p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  /* Xrton Portfolio Pages CSS */
+  .portfolio-info-two ul {
+    padding: 0;
+  }
+  .xrton-services.services-style-two .service-info h4 {
+    font-size: 19px;
+  }
+  .xrton-services.services-style-two .service-info p {
+    font-size: 16px;
+  }
+}
+
+@media screen and (min-width:1270px) {
+  /* Xrton Normal CSS */
+  .container {
+    padding: 0;
+  }
+}
+
+@media screen and (min-width:1200px) {
+  /* Xrton Normal CSS */
+  .container {
+    max-width: 1170px;
+  }
+  .services-full-width .container {
+    max-width: 100%;
+    padding: 0;
+  }
+  .services-full-width .row {
+    margin: 0;
+  }
+}
+
+@media screen and (max-width:1199px) {
+  /* Xrton Normal CSS */
+  .swiper-container {
+    height: 600px;
+    min-height: 600px;
+  }
+  .caption-wrap-inner h1 {
+    font-size: 40px;
+    line-height: 48px;
+  }
+  .section-title-wrap {
+    padding-bottom: 40px;
+  }
+  .section-title-wrap h2 {
+    font-size: 32px;
+    line-height: 38px;
+  }
+  .section-title br {
+    display: none;
+  }
+  .services-full-width .service-item.column-5,
+  .services-full-width .service-item.column-4,
+  .services-full-width .service-item.column-3 {
+    -ms-flex: 0 0 33.33333333%;
+    flex: 0 0 33.33333333%;
+    max-width: 33.33333333%;
+    padding: 0 15px 30px;
+  }
+  .services-full-width .service-item:last-child {
+    padding-bottom: 0;
+  }
+  .news-info {
+    max-width: 400px;
+    padding: 25px 25px 20px;
+  }
+  .news-info h4 {
+    font-size: 18px;
+    line-height: 24px;
+  }
+  .xrton-quote h2 {
+    font-size: 32px;
+    line-height: 38px;
+  }
+  .xrton-sticky-footer .main-wrap-inner {
+    margin-bottom: 0 !important;
+  }
+  .xrton-sticky-footer .xrton-footer {
+    position: static;
+  }
+  .footer-widget {
+    padding-bottom: 40px;
+  }
+  .xrton-pagination {
+    padding-top: 30px;
+  }
+  /* Xrton Home v2 Page CSS */
+  .welcome-info p br {
+    display: none;
+  }
+  .skills-info {
+    padding: 0 0 50px;
+  }
+  .circle-progressbar {
+    min-height: 145px;
+  }
+  .circle-progressbar canvas {
+    width: 150px !important;
+    height: 150px !important;
+  }
+  .circle-progressbar {
+    margin-bottom: 15px;
+  }
+  .circle-progressbar .circle-counter {
+    font-size: 32px;
+  }
+  /* Xrton Home v3 Page CSS */
+  .process-wrap {
+    padding: 50px 50px 30px;
+  }
+  .process-wrap-info {
+    padding-right: 0;
+  }
+  .hover-style-three .project-info {
+    padding: 15px;
+  }
+  /* Xrton Portfolio Pages CSS */
+  .hover-style-six .project-info h4 {
+    font-size: 18px;
+  }
+  .portfolio-info ul li .portfolio-label {
+    min-width: 10px;
+  }
+  /* Xrton Blog Details Page CSS */
+  .xrton-blog-detail {
+    padding: 0;
+  }
+  /* Xrton Contactus Page CSS */
+  .contact-form {
+    padding: 0;
+  }
+  .xrton-secondary {
+    padding-top: 80px;
+  }
+}
+
+@media screen and (max-width:1199px) and (min-width:992px) {
+  /* Xrton Normal CSS */
+  .location-item {
+    top: 50px;
+    left: 70px;
+  }
+  .location-item:nth-child(2) {
+    top: 155px;
+    left: 170px;
+  }
+  .location-item:nth-child(3) {
+    top: 90px;
+    left: 240px;
+  }
+  .location-item:nth-child(4) {
+    top: 50px;
+    left: 270px;
+  }
+  .location-item:nth-child(5) {
+    top: 100px;
+    left: 360px;
+  }
+  .location-item:nth-child(6) {
+    top: 175px;
+    left: 440px;
+  }
+  .location-item:nth-child(7) {
+    top: 25px;
+    left: 440px;
+  }
+}
+
+@media screen and (max-width:991px) {
+  /* Xrton Normal CSS */
+  blockquote {
+    margin: 15px 0 5px;
+  }
+  .header-right .xrton-navigation {
+    display: none;
+  }
+  .swiper-container {
+    height: 500px;
+    min-height: 500px;
+  }
+  .swiper-button-prev {
+    left: 20px;
+  }
+  .swiper-button-next {
+    right: 20px;
+  }
+  .caption-wrap-inner h1 {
+    font-size: 34px;
+    line-height: 48px;
+  }
+  .about-info {
+    padding: 30px 0 0;
+  }
+  .section-title-wrap h2 {
+    font-size: 28px;
+    line-height: 34px;
+  }
+  .section-title {
+    padding-bottom: 15px;
+  }
+   .services-full-width .service-item.column-5,
+  .services-full-width .service-item.column-4,
+  .services-full-width .service-item.column-3 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+  .xrton-quote {
+    padding: 80px 0 60px;
+  }
+  .xrton-quote h2 {
+    font-size: 28px;
+    line-height: 34px;
+  }
+  .quote-title {
+    padding-bottom: 15px;
+  }
+  .excellence-info {
+    padding: 20px 0 0;
+  }
+  .news-item {
+    max-width: 560px;
+    margin: 0 auto 50px;
+  }
+  .xrton-callout h2 {
+    line-height: 38px;
+  }
+  [class*="order-"] .about-image {
+    text-align: left;
+  }
+  [class*="order-"] .about-image:before {
+    left: -30px;
+  }
+  .xrton-masonry {
+    margin: 0 -15px;
+  }
+  .masonry-item {
+    padding: 0 15px 30px;
+  }
+  .xrton-page-title {
+    padding: 100px 0;
+  }
+  .xrton-page-title h2 {
+    font-size: 32px;
+    line-height: 38px;
+  }
+  .masonry-filters ul li:after {
+    padding: 0 15px;
+  }
+  .xrton-pagination {
+    padding-top: 25px;
+  }
+  .xrton-primary {
+    width: 100%;
+    float: none;
+    padding-right: 0;
+    padding-left: 0;
+  }
+  .xrton-secondary {
+    width: 100%;
+    float: none;
+  }
+  .secondary-wrap {
+    padding-top: 45px;
+  }
+  .has-sidebar .xrton-primary {
+    float: none;
+    padding-left: 0;
+  }
+  .mate-info h4 {
+    font-size: 16px;
+  }
+  .mate-info p {
+    padding-bottom: 8px;
+    font-size: 13px;
+    line-height: 20px;
+  }
+  .xrton-callout, 
+  .xrton-callout .textright {
+    text-align: center;
+  }
+  .callout-title {
+    padding-bottom: 20px;
+  }
+  /* Xrton Home v2 Page CSS */
+  .skill-item {
+    display: inline-block;
+  }
+  .hover-style-two .project-info {
+    padding: 10px 25px;
+  }
+  .testimonials-info{
+    max-width: 570px;
+  }
+  .testimonials-info p, 
+  .stats-item p {
+    font-size: 16px;
+    line-height: 28px;
+  }
+  .testimonials-info p br {
+    display: none;
+  }
+  .stats-item h2 {
+    font-size: 38px;
+    line-height: 44px;
+  }
+  /* Xrton Home v3 Page CSS */
+  .process-wrap-info {
+    padding-bottom: 30px;
+  }
+  .masonry-item.one-half {
+    width: 50%;
+  }
+  .faq-info {
+    padding: 30px 0 0;
+  }
+  /* Xrton 404 Page CSS */
+  .xrton-error-wrap {
+    padding: 100px 0;
+  }
+  /* Xrton Portfolio Pages CSS */
+  .xrton-masonry[data-item="3"] .masonry-item, 
+  .xrton-masonry[data-item="4"] .masonry-item {
+    width: 50%;
+  }
+  .portfolio-images .xrton-image:last-child {
+    margin-bottom: 0;
+  }
+  .portfolio-info {
+    padding-top: 25px;
+  }
+  .portfolio-images .owl-carousel .owl-nav button.owl-prev {
+    left: 20px;
+  }
+  .portfolio-images .owl-carousel .owl-nav button.owl-next {
+    right: 20px;
+  }
+  /* Xrton Blog Details Page CSS */
+  .xrton-page-title.page-title-style-two {
+    padding: 100px 0;
+  }
+  .xrton-comments-area .comments li .children .comment-item {
+    padding-left: 90px;
+  }
+  /* Xrton Contactus Page CSS */
+  .xrton-contact {
+    padding: 90px 0;
+  }
+  .xrton-map {
+    height: 300px;
+  }
+  .xrton-services.service-style-one .service-info h4 {
+    font-size: 19px;
+  }
+  .xrton-services.service-style-one .service-info p {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width:800px) {
+  /* Xrton Normal CSS */
+  .mfp-close {
+    top: 0;
+    right: 0;
+    width: 35px;
+    height: 35px;
+    background: rgba(0, 0, 0, 0.6);
+  }
+  .mfp-close:active {
+    top: 0;
+  }
+  .mfp-close:before, 
+  .mfp-close:after {
+    top: 9px;
+    left: 16px;
+  }
+  .mfp-arrow-left {
+    left: 15px;
+  }
+  .mfp-arrow-right {
+    right: 26px;
+  }
+  .mfp-image-holder .mfp-close, 
+  .mfp-iframe-holder .mfp-close {
+    position: fixed;
+    top: 0;
+    width: 35px;
+  }
+}
+
+@media screen and (max-width:782px){
+  .admin-bar .is-sticky .xrton-header {
+    top: 46px !important;
+ }
+}
+
+@media screen and (max-width:767px) {
+  /* Xrton Normal CSS */
+  h1, 
+  .h1 {
+    font-size: 30px;
+  }
+  h2, 
+  .h2 {
+    font-size: 26px;
+  }
+  h3, 
+  .h3 {
+    font-size: 20px;
+  }
+  p {
+    padding-bottom: 10px;
+    font-size: 15px;
+    line-height: 26px;
+  }
+  blockquote p {
+    font-size: 16px;
+    line-height: 28px;
+  }
+  textarea, 
+  textarea.form-control {
+    height: 120px;
+  }
+  input[type="text"], 
+  input[type="email"], 
+  input[type="password"], 
+  input[type="tel"],
+  input[type="search"], 
+  input[type="date"], 
+  input[type="time"], 
+  input[type="datetime-local"], 
+  input[type="event-month"], 
+  input[type="url"], 
+  input[type="number"], 
+  textarea, 
+  select, 
+  .form-control {
+    padding: 10px 15px;
+  }
+  [class*="pe-7s"] {
+    font-size: 28px;
+  }
+  .xrton-topbar {
+    padding: 25px 0;
+    text-align: center;
+  }
+  .xrton-topbar .xrton-social {
+    padding-top: 10px;
+    text-align: center;
+  }
+  .xrton-brand {
+    padding: 28px 0;
+  }
+  .navigation-wrap {
+    padding: 30px;
+  }
+  .close-btn a {
+    top: 15px;
+    right: 15px;
+  }
+  .search-box {
+    width: 510px;
+  }
+  .xrton-fullscreen-navigation .dropdown-nav {
+    padding-top: 15px;
+  }
+  .swiper-container {
+    height: 400px;
+    min-height: 400px;
+  }
+  .caption-wrap-inner {
+    max-width: 450px;
+    padding-bottom: 0;
+    margin: 0 auto;
+  }
+  .caption-wrap-inner h1 {
+    font-size: 28px;
+    line-height: 34px;
+  }
+  .caption-wrap-inner h4 {
+    font-size: 16px;
+  }
+  .swiper-button-prev, 
+  .swiper-button-next {
+    width: 40px;
+    height: 40px;
+    background-size: 18px auto;
+  }
+  .about-image:before, 
+  .section-title:before {
+    display: none;
+  }
+  .xrton-aboutus {
+    padding: 0;
+  }
+  .section-title-wrap h2 {
+    font-size: 24px;
+    line-height: 28px;
+  }
+  .about-info {
+    padding-top: 15px;
+  }
+  .xrton-aboutus .section-title-wrap {
+    padding-bottom: 15px;
+  }
+  .xrton-aboutus .xrton-btns-group {
+    padding-top: 10px;
+  }
+  .xrton-projects .textright {
+    text-align: left;
+  }
+  .section-title-wrap {
+    padding-bottom: 25px;
+  }
+  .xrton-callout, 
+  .xrton-page-title, 
+  .xrton-error-wrap, 
+  .xrton-mid-wrap, 
+  .xrton-contact {
+    padding: 50px 0;
+  }
+  .xrton-projects, 
+  .xrton-process, 
+  .xrton-news, 
+  .xrton-welcome, 
+  .xrton-projects.projects-style-two, 
+  .xrton-services.services-style-two, 
+  .xrton-stats, 
+  .xrton-testimonials, 
+  .xrton-projects.projects-style-three, 
+  .xrton-team, 
+  .xrton-welcome.welcome-style-two {
+    padding: 50px 0 30px;
+  }
+  .xrton-quote, 
+  .xrton-testimonials.testimonials-style-two, 
+  .xrton-faq {
+    padding: 50px 0 40px;
+  }
+  .xrton-services.services-style-three, 
+  .xrton-skills {
+    padding: 50px 0 20px;
+  }
+  .xrton-projects .section-title-style-two {
+    text-align: center;
+  }
+  .xrton-projects .section-title-style-two .section-title:after {
+    margin: 0 auto;
+  }
+  .xrton-projects .textright {
+    padding-bottom: 25px;
+    text-align: center;
+  }
+  .project-item {
+    max-width: 370px;
+    margin: 0 auto 15px;
+  }
+  .xrton-quote h2 {
+    font-size: 22px;
+    line-height: 30px;
+  }
+  .quote-title {
+    padding-bottom: 10px;
+  }
+  .location-item {
+    display: none;
+  }
+  .client-wrap {
+    padding: 30px 0 50px;
+  }
+  .process-item {
+    padding-bottom: 30px;
+  }
+  .process-item .xrton-icon {
+    margin-bottom: 15px;
+  }
+  .process-item h4 {
+    font-size: 18px;
+  }
+  .process-item .xrton-btns-group {
+    padding-top: 0;
+  }
+  .process-title {
+    padding-bottom: 10px;
+  }
+  .news-meta ul {
+    padding-bottom: 8px;
+  }
+  .news-item {
+    margin-bottom: 35px;
+  }
+  .footer-widget .widget-title, 
+  .footer-wrap .xrton-logo {
+    padding-bottom: 15px;
+  }
+  .swiper-container-horizontal > .swiper-pagination-bullets, 
+  .swiper-pagination-custom, 
+  .swiper-pagination-fraction {
+    bottom: 15px;
+  }
+  .footer-wrap {
+    padding: 50px 0 20px;
+  }
+  .footer-widget {
+    padding-bottom: 30px;
+  }
+  .quick-links ul{
+    font-size: 15px;
+  }
+  .quick-links ul li {
+    padding-bottom: 15px;
+  }
+  .quick-links ul li:before {
+    top: 8px;
+  }
+  .post-item {
+    padding-bottom: 20px;
+  }
+  .post-item:last-child, 
+  .contact-item:last-child {
+    padding-bottom: 0;
+  }
+  .contact-details {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .contact-item {
+    padding-bottom: 10px;
+  }
+  .contact-item .contact-info {
+    padding-left: 15px;
+  }
+  .contact-item .xrton-icon {
+    width: 30px;
+  }
+  .xrton-copyright {
+    padding: 25px 0 20px;
+    text-align: center;
+  }
+  .xrton-copyright .textright {
+    text-align: center;
+  }
+  .xrton-copyright .xrton-social {
+    padding-top: 15px;
+    font-size: 15px;
+  }
+  .xrton-copyright .xrton-social a {
+    margin: 0 5px 10px;
+  }
+  .xrton-page-title h2 {
+    font-size: 26px;
+    line-height: 32px;
+  }
+  .breadcrumb {
+    font-size: 14px;
+  }
+  .project-info, 
+  .hover-style-four .project-info {
+    padding-top: 10px;
+  }
+  .callout-title {
+    padding-bottom: 15px;
+  }
+  /* Xrton Home v2 Page CSS */
+  .welcome-info p {
+    font-size: 14px;
+    line-height: 26px;
+  }
+  .skill-item {
+    padding-bottom: 15px;
+  }
+  .xrton-masonry {
+    margin: 0;
+  }
+  .masonry-item {
+    width: 100%;
+    padding: 0 0 25px;
+  }
+  .xrton-masonry[data-space] {
+    margin: 0;
+  }
+  .xrton-masonry[data-space] .masonry-item {
+    padding: 0 0 25px;
+  }
+  .xrton-masonry[data-item] .masonry-item {
+    width: 100%;
+  }
+  .services-style-two .service-item {
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  .projects-wrap:not([class*="hover-style-"]) .masonry-item {
+    padding-bottom: 15px;
+  }
+  .hover-style-two .project-item {
+    max-width: none;
+  }
+  .testimonials-info {
+    max-width: 440px;
+  }
+  .xrton-testimonials .section-title-wrap {
+    padding-bottom: 20px;
+  }
+  .stats-item {
+    padding-bottom: 20px;
+  }
+  .xrton-news.news-spacer-one {
+    padding-bottom: 0;
+  }
+  .skills-info {
+    padding-bottom: 30px;
+  }
+  .circle-progressbar {
+    margin-bottom: 10px;
+  }
+  /* Xrton Home v3 Page CSS */
+  .xrton-process.process-style-two {
+    padding-top: 50px;
+  }
+  .process-wrap {
+    top: 0;
+    padding: 25px 25px 15px;
+    -webkit-box-shadow: none;
+    -ms-box-shadow: none;
+    box-shadow: none;
+  }
+  .process-wrap .process-item {
+    padding-bottom: 10px;
+  }
+  .masonry-item.one-half {
+    width: 100%;
+  }
+  .faq-image .xrton-image:after {
+    display: none;
+  }
+  /* Xrton Aboutus Page CSS */
+  .aboutus-wrap + .aboutus-wrap {
+    padding-top: 0;
+  }
+  .welcome-wrap {
+    padding-top: 15px;
+  }
+  /* Xrton Services Page CSS */
+  .xrton-process.process-style-three {
+    padding-bottom: 30px;
+  }
+  /* Xrton 404 Page CSS */
+  .error-wrap h1 {
+    font-size: 120px;
+    line-height: 110px;
+  }
+  .error-wrap h3 {
+    font-size: 20px;
+  }
+  .error-wrap .xrton-btns-group {
+    padding-top: 15px;
+  }
+  /* Xrton Portfolio Pages CSS */
+  .masonry-filters {
+    padding-bottom: 15px;
+  }
+  .masonry-filters ul li {
+    padding-bottom: 10px;
+  }
+  .masonry-filters ul li:after {
+    padding: 0 10px;
+  }
+  .xrton-pagination {
+    padding-top: 5px;
+  }
+  .projects-spacer-one, 
+  .projects-spacer-two {
+    padding: 0 25px;
+  }
+  .hover-style-six .project-info {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .hover-style-six .zoom-link {
+    line-height: 36px;
+  }
+  .portfolio-info h3 {
+    font-size: 20px;
+  }
+  .portfolio-title, 
+  .portfolio-info ul li {
+    padding-bottom: 10px;
+  }
+  .portfolio-info ul {
+    padding-top: 0;
+  }
+  .portfolio-info ul li .portfolio-label {
+    font-size: 14px;
+  }
+  .portfolio-controls {
+    padding-top: 20px;
+  }
+  .portfolio-images .xrton-image {
+    margin-bottom: 25px;
+  }
+  .owl-carousel .owl-dots {
+    bottom: 15px;
+  }
+  .portfolio-images .owl-carousel .owl-nav button.owl-prev, 
+  .portfolio-images .owl-carousel .owl-nav button.owl-next {
+    width: 40px;
+    height: 40px;
+    background-size: 18px auto;
+  }
+  .portfolio-control-link {
+    width: 26px;
+    background-size: 50px auto;
+  }
+  /* Xrton Blog Details Page CSS */
+  .xrton-page-title.page-title-style-two {
+    padding: 40px 0 25px;
+  }
+  .xrton-page-title h3 {
+    font-size: 24px;
+    line-height: 32px;
+  }
+  .news-title br {
+    display: none;
+  }
+  .xrton-page-title .news-meta {
+    padding-bottom: 0;
+  }
+  .blog-image {
+    padding-bottom: 15px;
+  }
+  .blog-detail-wrap p {
+    padding-bottom: 10px;
+  }
+  blockquote .xrton-icon {
+    margin-bottom: 10px;
+  }
+  .xrton-blog-meta .xrton-blog-share {
+    padding-top: 20px;
+    text-align: left;
+  }
+  .blog-tags a {
+    font-size: 14px;
+  }
+  .xrton-author-info {
+    padding: 25px 20px 20px;
+    margin: 40px 0 10px;
+  }
+  .author-content .author-name {
+    margin-bottom: 4px;
+  }
+  .xrton-info-title {
+    padding-bottom: 15px;
+    font-size: 20px;
+  }
+  .xrton-comments-area .xrton-comments-meta h4 {
+    font-size: 15px;
+  }
+  .xrton-comments-area .comment-main-area {
+    padding-left: 20px;
+  }
+  .xrton-comments-area .xrton-comments-meta {
+    padding-bottom: 0;
+  }
+  .xrton-comments-area .comments-reply {
+    padding-top: 0;
+  }
+  .xrton-comments-area .comment-item {
+    padding-bottom: 30px;
+  }
+  .xrton-comments-area .comments li .children .comment-item {
+    padding-left: 50px;
+  }
+  .comments-section {
+    padding-bottom: 40px;
+  }
+  .xrton-comment-form button[type="submit"] {
+    min-width: 100%;
+  }
+  .xrton-widget {
+    padding-bottom: 20px;
+  }
+  /* Cspir Content Cross Check Page CSS */
+  .xrton-unit-fix .entry-content .comment-list article, 
+  .xrton-unit-fix .entry-content .comment-list .pingback, 
+  .xrton-unit-fix .entry-content .comment-list .trackback {
+    padding: 15px 0 20px;
+  }
+  .entry-content dd {
+    margin-bottom: 10px;
+  }
+  .wp-caption {
+    max-width: 100%;
+    margin-bottom: 10px;
+  }
+  .entry-content .xrton-responsive-table {
+    white-space: nowrap;
+  }
+  .entry-content .comment-list article, 
+  .entry-content .comment-list .pingback, 
+  .entry-content .comment-list .trackback {
+    padding: 20px 0;
+  }
+  .entry-content .comment-content ul, 
+  .entry-content .comment-content ol {
+    margin: 0 0 10px 0;
+  }
+  .entry-content .comment-metadata {
+    margin-bottom: 5px;
+  }
+  .entry-content .comment-list .comment-reply-link {
+    margin-top: 0;
+  }
+  .entry-content .comment-list .children {
+    padding-left: 0;
+  }
+  .entry-content .comment-notes, 
+  .entry-content .comment-awaiting-moderation, 
+  .entry-content .logged-in-as, 
+  .entry-content .form-allowed-tags {
+    padding-bottom: 10px;
+  }
+  .post-password-form label input {
+    margin: 10px;
+  }
+  .comment-subscription-form label {
+    font-size: 12px;
+  }
+  /* Xrton Contactus Page CSS */
+  .xrton-map {
+    height: 230px;
+  }
+  .contact-form input[type="submit"], 
+  .contact-form button[type="submit"] {
+    min-width: 100%;
+  }
+  .xrton-topbar ul {
+    text-align: center;
+  }
+  .mean-container .mean-bar {
+    top: 0;
+  }
+  .xrton-testimonials, 
+  .xrton-faq {
+    padding-top: 15px;
+  }
+  .xrton-team {
+    padding-top: 20px;
+  }
+  .xrton-topbar-left-content {
+    text-align: center;
+  }
+  .caption-wrap-inner h1 {
+    line-height: 50px;
+  }
+  .service-info {
+    padding: 20px;
+  }
+
+}
+
+@media screen and (max-width: 600px) {
+  .admin-bar .is-sticky .xrton-header {
+    top: 0px !important;
+  }
+}
+@media screen and (max-width: 588px) {
+  .single-post .row {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media screen and (max-width:575px) {
+  /* Xrton Normal CSS */
+  h1, 
+  .h1 {
+    font-size: 26px;
+  }
+  h2, 
+  .h2 {
+    font-size: 22px;
+  }
+  blockquote p {
+    font-size: 15px;
+    line-height: 26px;
+  }
+  .container {
+    padding: 0 25px;
+  }
+  .search-box {
+    left: 25px;
+    right: 25px;
+    width: auto;
+    padding: 15px;
+    -webkit-transform: translateX(0) translateY(50%);
+    -ms-transform: translateX(0) translateY(50%);
+    transform: translateX(0) translateY(50%);
+  }
+  .search-box.open {
+    -webkit-transform: translateX(0) translateY(0);
+    -ms-transform: translateX(0) translateY(0);
+    transform: translateX(0) translateY(0);
+  }
+  .search-box input[type="text"] {
+    padding: 10px 65px 10px 15px;
+  }
+  .search-box input[type="submit"] {
+    min-width: 50px;
+  }
+  .xrton-fullscreen-navigation {
+    width: 100%;
+    text-align: center;
+  }
+  .xrton-fullscreen-navigation .dropdown-nav {
+    text-align: center;
+  }
+  .caption-wrap-inner h1 {
+    font-size: 24px;
+    line-height: 30px;
+  }
+  .swiper-button-prev, 
+  .swiper-button-next {
+    display: none;
+  }
+  .services-full-width .service-item {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .project-info h4 {
+    font-size: 18px;
+  }
+  .xrton-callout h2 {
+    line-height: 30px;
+  }
+  .post-info h6 {
+    font-size: 14px;
+  }
+  .accordion-title a {
+    padding-right: 55px;
+  }
+  .accordion-title a:before {
+    right: 15px;
+  }
+  .card-body {
+    padding: 15px 0 10px;
+  }
+  /* Xrton Home v2 Page CSS */
+  .owl-carousel .owl-nav {
+    display: none;
+  }
+  .owl-carousel .owl-nav.disabled {
+    display: none !important;
+	}
+  .xrton-skills {
+    text-align: center;
+  }
+  .xrton-skills .section-title-style-two {
+    text-align: center;
+  }
+  .xrton-skills .section-title-style-two .section-title:after {
+    margin: 0 auto;
+  }
+  .services-style-two .service-info {
+    padding: 25px 20px 15px;
+  }
+  .testimonials-inner p:before, 
+  .testimonials-inner p:after {
+    display: none;
+  }
+  /* Xrton Home v3 Page CSS */
+  .mate-item {
+    max-width: 270px;
+    margin: 0 auto;
+  }
+  .xrton-team .row .col-md-3 {
+     margin-bottom: 30px;
+	}
+  .card-header h5 {
+    font-size: 14px;
+  }
+  .play-link {
+    width: 60px;
+    height: 60px;
+    font-size: 14px;
+    line-height: 60px;
+  }
+  .process-wrap .process-item .xrton-icon {
+    float: none;
+  }
+  .process-info {
+    padding: 10px 0 0;
+  }
+  /* Xrton 404 Page CSS */
+  .error-wrap h1 {
+    font-size: 100px;
+    line-height: 90px;
+  }
+  .error-wrap h3{
+    font-size: 16px;
+  }
+  /* Xrton Portfolio Pages CSS */
+  .portfolio-images .owl-carousel .owl-nav {
+    display: block;
+  }
+  /* Xrton Blog Details Page CSS */
+  .xrton-page-title h3 {
+    font-size: 20px;
+    line-height: 28px;
+  }
+  .xrton-info-title {
+    padding-bottom: 10px;
+    font-size: 18px;
+  }
+  .author-avatar img {
+    max-width: 85px;
+  }
+  .xrton-widget .widget-title {
+    padding-bottom: 10px;
+  }
+  .xrton-widget ul {
+    font-size: 14px;
+  }
+  .xrton-widget ul li {
+    padding: 0 0 10px 15px;
+  }
+  .xrton-widget ul li:before {
+    top: 6px;
+  }
+  #menu-testing-menu li {
+    padding-left: 13px;
+  }
+}
+
+@media screen and (max-width:571px) { 
+  .xrton-services.service-style-one .xrton-image {
+    height: 80%;
+  }
+  .services-full-width .service-item.column-5,
+  .services-full-width .service-item.column-4,
+  .services-full-width .service-item.column-3 {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
+
+@media screen and (max-width:479px) {
+  /* Xrton Normal CSS */
+  .xrton-topbar ul li {
+    display: inline-block;
+  }
+  .caption-wrap-inner h1 {
+    font-size: 20px;
+    line-height: 28px;
+  }
+  .news-item {
+    margin-bottom: 30px;
+  }
+  .news-info {
+    max-width: none;
+    padding: 20px 20px 10px;
+    margin: 0;
+  }
+  .news-info h4 {
+    font-size: 16px;
+    line-height: 22px;
+  }
+  .post-info {
+    padding-left: 10px;
+  }
+  .xrton-quote h2 {
+    font-size: 20px;
+  }
+  .xrton-page-title h2 {
+    font-size: 22px;
+    line-height: 28px;
+  }
+  /* Xrton Home v2 Page CSS */
+  .testimonials-info p {
+    font-size: 14px;
+    line-height: 26px;
+  }
+  .testimonials-author h4 {
+    font-size: 16px;
+  }
+  .hover-style-two .project-info {
+    padding: 10px 20px;
+  }
+  /* Xrton Home v3 Page CSS */
+  .stats-item h2 {
+    font-size: 30px;
+    line-height: 34px;
+  }
+  /* Xrton Portfolio Pages CSS */
+  .masonry-filters {
+    font-size: 14px;
+  }
+  .masonry-filters ul li:after {
+    padding: 0 5px;
+  }
+  .project-info h4 {
+    font-size: 16px;
+  }
+  .zoom-link {
+    font-size: 40px;
+    line-height: 26px;
+  }
+  .portfolio-images .owl-carousel .owl-nav {
+    display: none;
+  }
+  /* Xrton Blog Details Page CSS */
+  .xrton-page-title h3 {
+    font-size: 18px;
+    line-height: 26px;
+  }
+  .xrton-author-info {
+    text-align: center;
+  }
+  .author-avatar, 
+  .xrton-comments-area .comment-image {
+    float: none;
+  }
+  .author-content, 
+  .xrton-comments-area .comment-main-area {
+    padding: 15px 0 0;
+  }
+  .xrton-comments-area .comment-image img {
+    max-width: 75px;
+  }
+  .xrton-comments-area .comments li .children .comment-item {
+    padding-left: 20px;
+  }
+  .xrton-video .xrton-image:after {
+    display: none;
+  }
+  .xrton-topbar .nice-select .list {
+    min-width: 120px;
+    left: auto;
+    right: 0;
+    z-index: 10;
+  }
+
+}
